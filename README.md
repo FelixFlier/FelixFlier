@@ -1,25 +1,30 @@
 ### Hi, I'm Felix 👋
 
-I'm a Master's student in **Management & Technology at TUM**, focused on the intersection of **AI/ML products and business strategy**. I build hands-on with LLMs, RAG systems, and computer vision — so I can talk to engineers about what's actually feasible, and to business stakeholders about what's actually valuable.
-
-**Currently exploring:** retrieval-augmented generation, vision transformers, and how to ship AI features that solve real problems (not demos that impress on Twitter).
+I'm a Master's student in **Management & Technology at TUM**, training to become a **Product Manager for AI/ML products**. I build hands-on with LLMs, RAG systems, vision models, and full-stack applications — because the best PMs in AI can speak both engineering and product.
 
 ---
 
 #### 🛠 What I work with
 
-- **AI/ML:** PyTorch, Hugging Face Transformers, LangChain, FAISS, Sentence-Transformers, SAM2
-- **Languages:** Python, R, SQL, C#, JavaScript
-- **Product & Analytics:** A/B testing, user research, roadmap prioritization
-- **Frontiers I'm following:** RAG architectures, multi-modal models, AI agents
+- **AI/ML:** PyTorch, Hugging Face Transformers, LangChain, FAISS, Sentence-Transformers, SAM2, Gemini Pro
+- **Full-stack:** React, FastAPI, Python, JavaScript, REST APIs
+- **Data & Analytics:** R, SQL, pandas, tidyverse, statistical modeling
+- **Product:** A/B testing fundamentals, user research, roadmap prioritization
+
+#### 🔭 Currently exploring
+
+- Retrieval-augmented generation architectures and eval methods
+- Multi-modal models (vision + language)
+- How to translate frontier-AI capabilities into business value
 
 ---
 
 #### 📌 Pinned projects
 
-- **[Chatbot_RAG](https://github.com/FelixFlier/Chatbot_RAG)** — Production-grade RAG chatbot for German audit/accounting questions. Hybrid retrieval (FAISS + BM25 + graph-based reranking), Gemini Pro, intent recognition, quality metrics. *Python · Streamlit · LangChain*
-- **[Fast-Vision-Transformer-ViT](https://github.com/FelixFlier/Fast-Vision-Transformer-ViT)** — Comparative study of three ViT approaches (custom architecture, transfer learning, tiny baseline) on CIFAR-10, with trade-off analysis on speed vs. accuracy. *PyTorch · timm*
-- **[SAM2-Bildsegmentierung](https://github.com/FelixFlier/SAM2-Bildsegmentierung)** — Automated image segmentation using Meta's Segment Anything Model 2, with auto-detection of prominent points and multi-prompt strategies. *PyTorch · OpenCV*
+- **[Chatbot_RAG](https://github.com/FelixFlier/Chatbot_RAG)** — Production-grade German-language RAG chatbot for audit/accounting questions. Hybrid retrieval (FAISS + BM25 + graph-based reranking) on top of Gemini Pro.
+- **[ImmoSafe DE](https://github.com/FelixFlier/immosafe-de)** — Full-stack web app that scores German real-estate addresses for flood and natural-disaster risk. React + FastAPI + Google Maps API.
+- **[Fast-Vision-Transformer-ViT](https://github.com/FelixFlier/Fast-Vision-Transformer-ViT)** — Comparative study of three ViT approaches on CIFAR-10, with trade-off analysis on speed vs. accuracy.
+- **[SAM2-Image-Segmentation](https://github.com/FelixFlier/SAM2-Bildsegmentierung)** — Automated image segmentation using Meta's Segment Anything Model 2 with multi-prompt strategies.
 
 ---
 
