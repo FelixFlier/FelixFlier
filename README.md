@@ -9,7 +9,7 @@ I'm a Master's student in **Management & Technology at TUM**, focused on the int
 #### 🛠 What I work with
 
 - **AI/ML:** PyTorch, Hugging Face Transformers, LangChain, FAISS, Sentence-Transformers, SAM2
-- **Languages:** Python, R, SQL, C#
+- **Languages:** Python, R, SQL, C#, JavaScript
 - **Product & Analytics:** A/B testing, user research, roadmap prioritization, Figma, Notion
 - **Frontiers I'm following:** RAG architectures, multi-modal models, AI agents, evals
 
